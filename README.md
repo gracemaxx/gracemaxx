@@ -1,16 +1,97 @@
-<h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">A passionate software developer from Hong Kong</h3>
+<h1 align="center">Hello!👋, I'm Grace Maxwell</h1>
 
-- 🌱 I’m currently learning **Google Cybersecurity @ Coursera**
+<div>
+  
+# 💫 About Me:
+<img align='right' src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" />
 
-- 👨‍💻 All of my projects are available at [https://gracemax926.wixsite.com/grace-portfolio](https://gracemax926.wixsite.com/grace-portfolio)
+- 🌱 I’m currently doing **Google Cybersecurity Course @ Coursera**
 
-- 📫 How to reach me **gmw.maxwell@gmail.com**
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> <a href="https://gracemax926.wixsite.com/grace-portfolio">Check out my portfolio</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="25" height="25" />
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/grace maxwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grace maxwell" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gracemaxldn/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grace maxwell" height="30" width="40" /></a>
+  <a href="mailto:gmw.maxwell@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
 </p>
+  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+***
+
+# 💻 Tech Stack:
+<!--[![My Skills](https://skillicons.dev/icons?i=js,cs,py,java,html,css,nodejs,express,react,materialui,mysql,mongodb,unity)](https://skillicons.dev)-->
+<table style="border: none; width: 100%; text-align: center;">
+    <tr>
+        <td>
+            <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" width="60" height="60">
+        </td>
+    </tr>
+    <tr>
+        <td><p>JavaScript</p></td>
+        <td><p>C#</p></td>
+        <td><p>Python</p></td>
+        <td><p>Java</p></td>
+        <td><p>HTML</p></td>
+        <td><p>CSS</p></td>
+        <td><p>VScode</p></td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=materialui" alt="Material-UI" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60">
+        </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="60" height="60">
+        </td>
+    </tr>
+    <tr>
+        <td><p>Node.js</p></td>
+        <td><p>Express.js</p></td>
+        <td><p>React</p></td>
+        <td><p>Material-UI</p></td>
+        <td><p>MySQL</p></td>
+        <td><p>MongoDB</p></td>
+        <td><p>Unity</p></td>
+    </tr>
+</table>
+
+***
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gracemaxx&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
