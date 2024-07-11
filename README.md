@@ -1,9 +1,13 @@
-<h1 align="center">Hello!👋, I'm Grace Maxwell</h1>
+<div>
+
+<h1 align="center">Hello!👋, I'm Grace Maxwell</h1> <img align='right' src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" height="" width="250">
+  
+</div>
 
 <div>
   
 # 💫 About Me:
-<img align='right' src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="250">
+
 
 - 🌱 I’m currently doing **Google Cybersecurity Course @ Coursera**
 
