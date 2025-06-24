@@ -16,7 +16,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/gracemaxldn/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grace maxwell" height="30" width="40" /></a>
-  <a href="mailto:gmw.maxwell@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
 </p>
   
 </div>
