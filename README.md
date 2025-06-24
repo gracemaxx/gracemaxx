@@ -44,6 +44,9 @@
         <td>
             <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60">
         </td>
+        <td>
+            <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="60" height="60">
+        </td>
     </tr>
     <tr>
         <td><p>JavaScript</p></td>
@@ -51,6 +54,7 @@
         <td><p>Java</p></td>
         <td><p>HTML</p></td>
         <td><p>CSS</p></td>
+        <td><p>Unity</p></td>
     </tr>
     <tr>
         <td>
@@ -71,9 +75,6 @@
         <td>
             <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60">
         </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="60" height="60">
-        </td>
     </tr>
     <tr>
         <td><p>Node.js</p></td>
@@ -82,7 +83,6 @@
         <td><p>Material-UI</p></td>
         <td><p>MySQL</p></td>
         <td><p>MongoDB</p></td>
-        <td><p>Unity</p></td>
     </tr>
 </table>
 
