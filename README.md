@@ -33,9 +33,6 @@
             <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60">
         </td>
         <td>
-            <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="60" height="60">
-        </td>
-        <td>
             <img src="https://skillicons.dev/icons?i=py" alt="Python" width="60" height="60">
         </td>
         <td>
@@ -47,18 +44,13 @@
         <td>
             <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" height="60">
         </td>
-        <td>
-            <img src="https://skillicons.dev/icons?i=vscode" alt="VScode" width="60" height="60">
-        </td>
     </tr>
     <tr>
         <td><p>JavaScript</p></td>
-        <td><p>C#</p></td>
         <td><p>Python</p></td>
         <td><p>Java</p></td>
         <td><p>HTML</p></td>
         <td><p>CSS</p></td>
-        <td><p>VScode</p></td>
     </tr>
     <tr>
         <td>
