@@ -1,6 +1,6 @@
 <div>
 
-<h1 align="center">Hello!👋, I'm Grace Maxwell</h1> <img align='right' src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" height="" width="250">
+<h1 align="center">Hello!👋, I'm Grace Maxwell <img align='right' src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" height="" width="120"> </h1> 
   
 </div>
 
@@ -8,8 +8,7 @@
   
 # 💫 About Me:
 
-
-- 🌱 I’m currently doing **Google Cybersecurity Course @ Coursera**
+- 🌱 I’m currently learning **AWS**
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> <a href="https://gracemax926.wixsite.com/grace-portfolio">Check out my portfolio</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Left Light Skin Tone" width="25" height="25" />
 
